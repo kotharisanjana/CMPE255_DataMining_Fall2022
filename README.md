@@ -30,3 +30,10 @@ https://colab.research.google.com/drive/1NxUrNCSxadWiCXaxUHdi60GYSgFSUwsP?usp=sh
 https://colab.research.google.com/drive/1Ob15UUkbZV6yGpjWxBRqN7b6_iC8q7GI?usp=sharing <br>
 2.8 Time series with exogeneous variables - Forecast possibe highest price of Google stock <br>
 https://colab.research.google.com/drive/16-7GSt61UUiibyFPu6aG2q-A9BD3BlR9?usp=sharing
+
+### Assignment 3 - 
+#### 1.1 Advanced EDA using plotly
+Dataset - https://www.kaggle.com/datasets/swatikhedekar/eda-on-zomato-dataset
+#### 1.2 EDA using AutoEDA tool - autoviz
+Dataset - https://www.kaggle.com/datasets/yasserh/walmart-dataset 
+#### 1.3 Apache Beam - Demo of data processing pipeline using diabetes patient data.
