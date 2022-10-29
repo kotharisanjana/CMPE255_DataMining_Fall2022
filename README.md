@@ -32,11 +32,20 @@ https://colab.research.google.com/drive/1Ob15UUkbZV6yGpjWxBRqN7b6_iC8q7GI?usp=sh
 https://colab.research.google.com/drive/16-7GSt61UUiibyFPu6aG2q-A9BD3BlR9?usp=sharing
 
 ### Assignment 3 - 
-#### 1.1 Advanced EDA using plotly
+#### 3.1 Advanced EDA using plotly
 Dataset - https://www.kaggle.com/datasets/swatikhedekar/eda-on-zomato-dataset <br>
 Notebook - https://colab.research.google.com/drive/1riQHXPjNNtg6F6yGuX06Ywen2ALG9nEB?usp=sharing
-#### 1.2 EDA using AutoEDA tool - autoviz
+#### 3.2 EDA using AutoEDA tool - autoviz
 Dataset - https://www.kaggle.com/datasets/yasserh/walmart-dataset <br>
 Notebook - https://colab.research.google.com/drive/12sXktxvkUF6wvhoxOwm5V11SMsnV76lO?usp=sharing
-#### 1.3 Apache Beam - Demo of data processing pipeline using diabetes patient data. <br>
+#### 3.3 Apache Beam - Demo of data processing pipeline using diabetes patient data. <br>
 Notebook - https://colab.research.google.com/drive/1nfOr4xDjob67Lb-0gPbYO081fj07HpdG?usp=sharing
+
+### Assignment 4 - 
+#### 4.1 Data Preparation Techniques
+Notebook - https://colab.research.google.com/drive/1oDknxmwM8ARF09ymD2kDYzwlhsZI2Dd-?usp=sharing
+
+#### 4.2 Auto Data Prep using Autoviml
+Notebook - https://colab.research.google.com/drive/1bs0lHWSzymgxe66hKmMQ5mI-bKza1S2s?usp=sharing
+
+#### 4.3 End2End ML example using databricks
