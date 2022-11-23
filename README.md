@@ -49,3 +49,14 @@ Notebook - https://colab.research.google.com/drive/1oDknxmwM8ARF09ymD2kDYzwlhsZI
 Notebook - https://colab.research.google.com/drive/1bs0lHWSzymgxe66hKmMQ5mI-bKza1S2s?usp=sharing
 
 #### 4.3 End2End ML example using databricks
+
+### Assignment 5 -  
+#### 5.1 Approximate Nearest Neighbours using LSH and Random Projections
+Dataset for Locality Sensitive Hashing - https://www.kaggle.com/datasets/patrickgomes/machine-learning-papers-semantic-scholar <br>
+Dataset for Random Projections - https://www.kaggle.com/datasets/sihuihe/lbp-random-projections <br>
+Notebook - https://colab.research.google.com/drive/1qDh6lMDo78VlNC8liK_b56oNL8rhG7V6?usp=sharing
+
+#### 5.2 Approximate Nearest Neighbour using faiss, annoy and nmslib 
+Indexing techniques implemented - exhaustive search, product quantization, trees and heirarchical navigable small worlds <br>
+Dataset - https://www.kaggle.com/datasets/zygmunt/goodbooks-10k?datasetId=1938 <br>
+Notebook - https://colab.research.google.com/drive/1OvmvZRxpmIJ-ed-L7Ekj-AuLsohGp_W4?usp=sharing
