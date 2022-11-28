@@ -60,3 +60,12 @@ Notebook - https://colab.research.google.com/drive/1qDh6lMDo78VlNC8liK_b56oNL8rh
 Indexing techniques implemented - exhaustive search, product quantization, trees and heirarchical navigable small worlds <br>
 Dataset - https://www.kaggle.com/datasets/zygmunt/goodbooks-10k?datasetId=1938 <br>
 Notebook - https://colab.research.google.com/drive/1OvmvZRxpmIJ-ed-L7Ekj-AuLsohGp_W4?usp=sharing
+
+### Assignment 6 -
+#### 6.1 Frequent Pattern Mining using Apriori and FPGrowth techniques
+Dataset for Apriori - https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket <br>
+Dataset for FPGrowth - https://www.kaggle.com/datasets/felipeguimares/games-sales-dataset-for-frequent-patterns <br>
+Notebook - https://colab.research.google.com/drive/1MslrkA-oZ6-2wel_OwG0thngb0nzVH5j?usp=sharing
+
+#### 6.2 Frequent Pattern Mining using Databricks
+Dataset - https://www.kaggle.com/datasets/irfanasrullah/groceries <br>
