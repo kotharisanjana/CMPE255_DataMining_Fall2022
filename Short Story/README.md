@@ -8,7 +8,7 @@ the implementation details, metrics evaluation and the results.
 
 ##### Slideshare link - https://www.slideshare.net/SanjanaRajeshKothari/cmpe255shortstorypresentationpptx
 
-##### Video presentation link - 
+##### Video presentation link - https://youtu.be/7l28BR116mw
 
 ##### References:
 Weize Kong, Michael Bendersky, Marc Najork, Brandon Vargo, Mike Colagrosso (2020). Learning to Cluster Documents into Workspaces Using Large Scale Activity Logs
